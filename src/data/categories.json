@@ -1,0 +1,8 @@
+[
+  { "id": "smartphones", "slug": "smartphones", "name": "Смартфоны", "icon": "Smartphone", "productCount": 245 },
+  { "id": "accessories", "slug": "accessories", "name": "Аксессуары", "icon": "Headphones", "productCount": 412 },
+  { "id": "cases", "slug": "cases", "name": "Чехлы и стёкла", "icon": "Shield", "productCount": 189 },
+  { "id": "chargers", "slug": "chargers", "name": "Зарядки и кабели", "icon": "Zap", "productCount": 96 },
+  { "id": "powerbanks", "slug": "powerbanks", "name": "Power Bank", "icon": "Battery", "productCount": 54 },
+  { "id": "smartwatches", "slug": "smartwatches", "name": "Смарт-часы", "icon": "Watch", "productCount": 67 }
+]

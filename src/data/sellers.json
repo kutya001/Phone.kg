@@ -1,0 +1,122 @@
+[
+  {
+    "id": "seller-001",
+    "slug": "techshop-bishkek",
+    "name": "TechShop Bishkek",
+    "type": "shop",
+    "verified": true,
+    "rating": 4.6,
+    "reviewCount": 89,
+    "location": "Бишкек, ТЦ Дордой Плаза, бутик 204",
+    "city": "Bishkek",
+    "coordinates": {
+      "lat": 42.8756,
+      "lng": 74.6158
+    },
+    "contacts": {
+      "phone": "+996 555 123 456",
+      "whatsapp": "996555123456",
+      "telegram": "techshop_bishkek",
+      "workingHours": "Пн–Сб: 10:00–19:00"
+    },
+    "memberSince": "2024-03-15",
+    "totalOffers": 32,
+    "successfulDeals": 234
+  },
+  {
+    "id": "seller-002",
+    "slug": "mobilka-kg",
+    "name": "Mobilka.kg",
+    "type": "shop",
+    "verified": true,
+    "rating": 4.4,
+    "reviewCount": 156,
+    "location": "Бишкек, ул. Киевская 77",
+    "city": "Bishkek",
+    "coordinates": {
+      "lat": 42.8732,
+      "lng": 74.5982
+    },
+    "contacts": {
+      "phone": "+996 312 888 999",
+      "whatsapp": "996312888999",
+      "telegram": "mobilka_kg",
+      "website": "https://mobilka.kg",
+      "workingHours": "Ежедневно: 09:00–20:00"
+    },
+    "memberSince": "2023-08-01",
+    "totalOffers": 87,
+    "successfulDeals": 1024
+  },
+  {
+    "id": "seller-003",
+    "slug": "alibek-phones",
+    "name": "Алибек К.",
+    "type": "individual",
+    "verified": false,
+    "rating": 4.2,
+    "reviewCount": 17,
+    "location": "Бишкек, Ошский рынок",
+    "city": "Bishkek",
+    "coordinates": {
+      "lat": 42.8791,
+      "lng": 74.5623
+    },
+    "contacts": {
+      "phone": "+996 770 456 789",
+      "whatsapp": "996770456789"
+    },
+    "memberSince": "2025-01-20",
+    "totalOffers": 5,
+    "successfulDeals": 23
+  },
+  {
+    "id": "seller-004",
+    "slug": "istore-bishkek",
+    "name": "iStore Bishkek",
+    "type": "shop",
+    "verified": true,
+    "rating": 4.8,
+    "reviewCount": 312,
+    "location": "Бишкек, ТЦ Бета Сторс 2, 3 этаж",
+    "city": "Bishkek",
+    "coordinates": {
+      "lat": 42.8584,
+      "lng": 74.6189
+    },
+    "contacts": {
+      "phone": "+996 312 555 777",
+      "whatsapp": "996312555777",
+      "telegram": "istore_bishkek",
+      "instagram": "istore.bishkek",
+      "workingHours": "Пн–Вс: 10:00–21:00"
+    },
+    "memberSince": "2022-05-10",
+    "totalOffers": 145,
+    "successfulDeals": 2891
+  },
+  {
+    "id": "seller-005",
+    "slug": "gadget-osh",
+    "name": "Gadget Osh",
+    "type": "shop",
+    "verified": true,
+    "rating": 4.3,
+    "reviewCount": 44,
+    "location": "Ош, ул. Ленина 12",
+    "city": "Osh",
+    "coordinates": {
+      "lat": 40.5139,
+      "lng": 72.8161
+    },
+    "contacts": {
+      "phone": "+996 322 111 222",
+      "whatsapp": "996322111222",
+      "telegram": "gadget_osh",
+      "workingHours": "Пн–Сб: 09:00–18:00"
+    },
+    "memberSince": "2024-11-01",
+    "totalOffers": 23,
+    "successfulDeals": 98
+  }
+]

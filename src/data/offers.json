@@ -1,0 +1,88 @@
+[
+  {
+    "id": "offer-001",
+    "productId": "prod-001",
+    "sellerId": "seller-004",
+    "price": 89900,
+    "currency": "KGS",
+    "condition": "new",
+    "inStock": true,
+    "quantity": 5,
+    "warranty": "12 месяцев официальная",
+    "updatedAt": "2026-04-09T08:00:00Z",
+    "notes": "Оригинальная запечатанная коробка, все языки"
+  },
+  {
+    "id": "offer-002",
+    "productId": "prod-001",
+    "sellerId": "seller-001",
+    "price": 92000,
+    "currency": "KGS",
+    "condition": "new",
+    "inStock": true,
+    "quantity": 2,
+    "warranty": "12 месяцев официальная",
+    "updatedAt": "2026-04-08T14:30:00Z"
+  },
+  {
+    "id": "offer-003",
+    "productId": "prod-001",
+    "sellerId": "seller-002",
+    "price": 91500,
+    "currency": "KGS",
+    "condition": "new",
+    "inStock": true,
+    "quantity": 10,
+    "warranty": "6 месяцев магазинная",
+    "updatedAt": "2026-04-09T09:15:00Z"
+  },
+  {
+    "id": "offer-004",
+    "productId": "prod-001",
+    "sellerId": "seller-003",
+    "price": 65000,
+    "currency": "KGS",
+    "condition": "used",
+    "usedCondition": "excellent",
+    "usedDescription": "Куплен 4 месяца назад. Нет ни одной царапины. Все функции работают идеально. Есть коробка и все аксессуары. Продаю потому что купил Pro Max.",
+    "inStock": true,
+    "warranty": null,
+    "updatedAt": "2026-04-07T11:00:00Z"
+  },
+  {
+    "id": "offer-005",
+    "productId": "prod-001",
+    "sellerId": "seller-005",
+    "price": 68000,
+    "currency": "KGS",
+    "condition": "used",
+    "usedCondition": "good",
+    "usedDescription": "Телефон в хорошем состоянии. Есть мелкая царапина на задней крышке, экран без повреждений. Батарея 94%.",
+    "inStock": true,
+    "updatedAt": "2026-04-06T16:45:00Z"
+  },
+  {
+    "id": "offer-006",
+    "productId": "prod-007",
+    "sellerId": "seller-001",
+    "price": 75000,
+    "currency": "KGS",
+    "condition": "new",
+    "inStock": true,
+    "quantity": 5,
+    "warranty": "1 год от магазина",
+    "updatedAt": "2026-04-09T10:00:00Z"
+  },
+  {
+    "id": "offer-007",
+    "productId": "prod-008",
+    "sellerId": "seller-002",
+    "price": 68000,
+    "currency": "KGS",
+    "condition": "new",
+    "inStock": true,
+    "quantity": 3,
+    "warranty": "1 год от магазина",
+    "updatedAt": "2026-04-09T11:00:00Z"
+  }
+]

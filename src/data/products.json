@@ -1,0 +1,268 @@
+[
+  {
+    "id": "prod-001",
+    "slug": "apple-iphone-17-pro-256gb",
+    "name": "Apple iPhone 17 Pro 256GB",
+    "brand": "apple",
+    "category": "smartphones",
+    "isNew": true,
+    "isPopular": true,
+    "releaseYear": 2025,
+    "rating": 4.8,
+    "reviewCount": 127,
+    "minPriceNew": 89900,
+    "minPriceUsed": 65000,
+    "tags": ["флагман", "5G", "OLED", "камера", "apple"],
+    "shortDescription": "Флагманский смартфон Apple с титановым корпусом, улучшенной камерой на 48 МП и процессором A19 Pro.",
+    "description": "<h3>Новый уровень возможностей</h3><p>iPhone 17 Pro представляет собой вершину инженерной мысли Apple...</p>",
+    "images": [
+      { "url": "https://picsum.photos/seed/iphone17pro1/800/800", "alt": "iPhone 17 Pro чёрный, вид спереди", "isPrimary": true },
+      { "url": "https://picsum.photos/seed/iphone17pro2/800/800", "alt": "iPhone 17 Pro чёрный, вид сзади", "isPrimary": false },
+      { "url": "https://picsum.photos/seed/iphone17pro3/800/800", "alt": "iPhone 17 Pro чёрный, вид сбоку", "isPrimary": false }
+    ],
+    "specs": [
+      {
+        "groupName": "Экран",
+        "specs": [
+          { "name": "Диагональ", "value": "6.7 дюйма", "highlight": true },
+          { "name": "Тип экрана", "value": "Super Retina XDR OLED" },
+          { "name": "Разрешение", "value": "2796 × 1290 пикселей" },
+          { "name": "Частота", "value": "120 Гц (ProMotion)", "highlight": true }
+        ]
+      },
+      {
+        "groupName": "Процессор",
+        "specs": [
+          { "name": "Процессор", "value": "Apple A19 Pro", "highlight": true },
+          { "name": "Техпроцесс", "value": "3 нм" }
+        ]
+      },
+      {
+        "groupName": "Камера",
+        "specs": [
+          { "name": "Основная", "value": "48 МП, f/1.78", "highlight": true },
+          { "name": "Телеобъектив", "value": "12 МП, f/2.8, 5× оптический зум" }
+        ]
+      },
+      {
+        "groupName": "Память",
+        "specs": [
+          { "name": "ОЗУ", "value": "8 ГБ" },
+          { "name": "Встроенная", "value": "256 ГБ", "highlight": true }
+        ]
+      }
+    ],
+    "relatedProducts": ["prod-002", "prod-004"]
+  },
+  {
+    "id": "prod-002",
+    "slug": "apple-iphone-17-128gb",
+    "name": "Apple iPhone 17 128GB",
+    "brand": "apple",
+    "category": "smartphones",
+    "isNew": true,
+    "isPopular": false,
+    "releaseYear": 2025,
+    "rating": 4.7,
+    "reviewCount": 85,
+    "minPriceNew": 69900,
+    "minPriceUsed": 55000,
+    "tags": ["5G", "OLED", "apple"],
+    "shortDescription": "Базовая модель iPhone 17 с отличной камерой и процессором A18.",
+    "description": "<p>Отличный выбор для большинства пользователей.</p>",
+    "images": [
+      { "url": "https://picsum.photos/seed/iphone17/800/800", "alt": "iPhone 17", "isPrimary": true }
+    ],
+    "specs": [
+      {
+        "groupName": "Экран",
+        "specs": [
+          { "name": "Диагональ", "value": "6.1 дюйма", "highlight": true }
+        ]
+      }
+    ],
+    "relatedProducts": ["prod-001"]
+  },
+  {
+    "id": "prod-004",
+    "slug": "samsung-galaxy-s25-ultra-256gb",
+    "name": "Samsung Galaxy S25 Ultra 256GB",
+    "brand": "samsung",
+    "category": "smartphones",
+    "isNew": true,
+    "isPopular": true,
+    "releaseYear": 2025,
+    "rating": 4.9,
+    "reviewCount": 150,
+    "minPriceNew": 95000,
+    "minPriceUsed": 75000,
+    "tags": ["флагман", "5G", "AMOLED", "камера", "samsung", "стилус"],
+    "shortDescription": "Премиальный флагман Samsung с камерой 200 МП и встроенным стилусом S Pen.",
+    "description": "<p>Ультимативный Android-смартфон.</p>",
+    "images": [
+      { "url": "https://picsum.photos/seed/s25ultra/800/800", "alt": "Samsung Galaxy S25 Ultra", "isPrimary": true }
+    ],
+    "specs": [
+      {
+        "groupName": "Экран",
+        "specs": [
+          { "name": "Диагональ", "value": "6.9 дюйма", "highlight": true },
+          { "name": "Тип экрана", "value": "Dynamic AMOLED 2X" }
+        ]
+      },
+      {
+        "groupName": "Камера",
+        "specs": [
+          { "name": "Основная", "value": "200 МП", "highlight": true }
+        ]
+      }
+    ],
+    "relatedProducts": ["prod-001"]
+  },
+  {
+    "id": "prod-007",
+    "slug": "xiaomi-15-ultra-512gb",
+    "name": "Xiaomi 15 Ultra 512GB",
+    "brand": "xiaomi",
+    "category": "smartphones",
+    "isNew": true,
+    "isPopular": false,
+    "releaseYear": 2025,
+    "rating": 4.6,
+    "reviewCount": 45,
+    "minPriceNew": 72000,
+    "minPriceUsed": 60000,
+    "tags": ["флагман", "5G", "AMOLED", "xiaomi"],
+    "shortDescription": "Мощный камерофон от Xiaomi с оптикой Leica.",
+    "description": "<p>Фотографии профессионального качества.</p>",
+    "images": [
+      { "url": "https://picsum.photos/seed/xiaomi15ultra/800/800", "alt": "Xiaomi 15 Ultra", "isPrimary": true }
+    ],
+    "specs": [
+      {
+        "groupName": "Экран",
+        "specs": [
+          { "name": "Диагональ", "value": "6.73 дюйма", "highlight": true }
+        ]
+      }
+    ],
+    "relatedProducts": ["prod-004"]
+  },
+  {
+    "id": "prod-013",
+    "slug": "apple-airpods-4",
+    "name": "Apple AirPods 4",
+    "brand": "apple",
+    "category": "accessories",
+    "isNew": true,
+    "isPopular": true,
+    "releaseYear": 2024,
+    "rating": 4.5,
+    "reviewCount": 210,
+    "minPriceNew": 15000,
+    "minPriceUsed": 10000,
+    "tags": ["наушники", "apple", "tws"],
+    "shortDescription": "Новое поколение беспроводных наушников Apple с улучшенным звуком.",
+    "description": "<p>Комфорт и качество звука.</p>",
+    "images": [
+      { "url": "https://picsum.photos/seed/airpods4/800/800", "alt": "AirPods 4", "isPrimary": true }
+    ],
+    "specs": [
+      {
+        "groupName": "Основные",
+        "specs": [
+          { "name": "Тип", "value": "TWS", "highlight": true }
+        ]
+      }
+    ],
+    "relatedProducts": ["prod-001"]
+  },
+  {
+    "id": "prod-007",
+    "slug": "google-pixel-9-pro-128gb",
+    "name": "Google Pixel 9 Pro 128GB",
+    "brand": "google",
+    "category": "smartphones",
+    "isNew": true,
+    "isPopular": true,
+    "releaseYear": 2025,
+    "rating": 4.8,
+    "reviewCount": 95,
+    "minPriceNew": 75000,
+    "minPriceUsed": 58000,
+    "tags": ["флагман", "5G", "OLED", "камера", "google", "ai"],
+    "shortDescription": "Новейший флагман Google с передовыми функциями искусственного интеллекта и лучшей камерой на рынке.",
+    "description": "<p>Pixel 9 Pro предлагает чистый Android, невероятные возможности AI и потрясающую камеру.</p>",
+    "images": [
+      { "url": "https://picsum.photos/seed/pixel9pro/800/800", "alt": "Google Pixel 9 Pro", "isPrimary": true }
+    ],
+    "specs": [
+      {
+        "groupName": "Экран",
+        "specs": [
+          { "name": "Диагональ", "value": "6.3 дюйма", "highlight": true },
+          { "name": "Тип экрана", "value": "Super Actua OLED" },
+          { "name": "Частота", "value": "120 Гц", "highlight": true }
+        ]
+      },
+      {
+        "groupName": "Процессор",
+        "specs": [
+          { "name": "Процессор", "value": "Google Tensor G4", "highlight": true }
+        ]
+      },
+      {
+        "groupName": "Память",
+        "specs": [
+          { "name": "ОЗУ", "value": "16 ГБ", "highlight": true },
+          { "name": "Встроенная", "value": "128 ГБ" }
+        ]
+      }
+    ],
+    "relatedProducts": ["prod-001", "prod-004"]
+  },
+  {
+    "id": "prod-008",
+    "slug": "oneplus-12-256gb",
+    "name": "OnePlus 12 256GB",
+    "brand": "oneplus",
+    "category": "smartphones",
+    "isNew": true,
+    "isPopular": true,
+    "releaseYear": 2024,
+    "rating": 4.7,
+    "reviewCount": 112,
+    "minPriceNew": 68000,
+    "minPriceUsed": 45000,
+    "tags": ["флагман", "5G", "AMOLED", "быстрая зарядка", "oneplus"],
+    "shortDescription": "Мощный флагман с процессором Snapdragon 8 Gen 3, отличным экраном и сверхбыстрой зарядкой.",
+    "description": "<p>OnePlus 12 возвращается к корням, предлагая топовые характеристики по конкурентной цене.</p>",
+    "images": [
+      { "url": "https://picsum.photos/seed/oneplus12/800/800", "alt": "OnePlus 12", "isPrimary": true }
+    ],
+    "specs": [
+      {
+        "groupName": "Экран",
+        "specs": [
+          { "name": "Диагональ", "value": "6.82 дюйма", "highlight": true },
+          { "name": "Тип экрана", "value": "LTPO AMOLED" },
+          { "name": "Частота", "value": "120 Гц", "highlight": true }
+        ]
+      },
+      {
+        "groupName": "Процессор",
+        "specs": [
+          { "name": "Процессор", "value": "Snapdragon 8 Gen 3", "highlight": true }
+        ]
+      },
+      {
+        "groupName": "Память",
+        "specs": [
+          { "name": "ОЗУ", "value": "12 ГБ", "highlight": true },
+          { "name": "Встроенная", "value": "256 ГБ" }
+        ]
+      }
+    ],
+    "relatedProducts": ["prod-004", "prod-007"]
+  }
+]

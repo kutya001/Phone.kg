@@ -1,0 +1,10 @@
+[
+  { "id": "apple",   "name": "Apple",   "slug": "apple",   "country": "США" },
+  { "id": "samsung", "name": "Samsung", "slug": "samsung", "country": "Корея" },
+  { "id": "xiaomi",  "name": "Xiaomi",  "slug": "xiaomi",  "country": "Китай" },
+  { "id": "realme",  "name": "Realme",  "slug": "realme",  "country": "Китай" },
+  { "id": "oppo",    "name": "OPPO",    "slug": "oppo",    "country": "Китай" },
+  { "id": "huawei",  "name": "Huawei",  "slug": "huawei",  "country": "Китай" },
+  { "id": "nothing", "name": "Nothing", "slug": "nothing",  "country": "Великобритания" },
+  { "id": "vivo",    "name": "Vivo",    "slug": "vivo",    "country": "Китай" }
+]
